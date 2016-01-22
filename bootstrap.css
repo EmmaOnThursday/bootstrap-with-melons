@@ -1,4 +1,36 @@
-.navbar-header {
+.navbar {
     background-color:#81bd41;
+}
 
+.navbar-default .navbar-right>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    font-weight: bold;
+}
+
+.main-text{
+    font-size: 16px;
+    text-align: center;
+}
+
+.col-text {
+    text-align: center;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.table {
+    text-align: center;
+}
+
+th{
+    text-align: center;
 }
