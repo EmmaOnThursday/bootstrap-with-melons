@@ -4,10 +4,12 @@
 
 .navbar-default .navbar-right>li>a {
     color: white;
+    font-size: 16px;
 }
 
 .navbar-default .navbar-nav>li>a {
     color: white;
+    font-size: 16px;
 }
 
 .navbar-default .navbar-brand {
